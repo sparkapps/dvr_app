@@ -1,4 +1,3 @@
-
 DROP DATABASE IF EXISTS dvr_app_development;
 CREATE DATABASE dvr_app_development;
 
